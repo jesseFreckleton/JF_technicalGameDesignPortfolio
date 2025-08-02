@@ -1,6 +1,7 @@
 /*Landing Page Begin*/
 .landingPage {
     background-image: url('../Images/LandingPage.png');
+    background-color: gray;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
