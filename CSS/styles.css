@@ -19,14 +19,19 @@ p {
     color: white;
 }
 /*Media Queries*/
-@media screen and (max-width: 425px) {
+/*@media screen and (max-width: 425px) {
     .landingPage {
         background-image: url("../Images/LandingPage425_670.png");
     }
-}
+} DELETE IF NOT NEEDED*/
 @media screen and (max-width: 768px) {
     .landingPage {
         background-image: url("../Images/LandingPage768_900.png");
+    }
+}
+@media screen and (max-width: 1440px) {
+    .landingPage {
+        background-image: url("../Images/LandingPage1440_710.png");
     }
 }
 /*Landing Page End*/
