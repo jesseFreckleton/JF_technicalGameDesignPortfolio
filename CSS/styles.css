@@ -29,7 +29,7 @@ p {
         background-image: url("../Images/LandingPage768_900.png");
     }
 }
-@media screen and (min-width: 769px) and (max-width: 1440px) {
+@media screen and (min-width: 769px) and (max-width: 2000px) {
     .landingPage {
         background-image: url("../Images/LandingPage1440_710.png");
     }
