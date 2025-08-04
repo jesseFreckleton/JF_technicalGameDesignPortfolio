@@ -15,6 +15,9 @@
     height: 150vh;
     text-align: center;
 }
+p {
+    color: white;
+}
 /*Media Queries*/
 @media screen and (max-width: 425px) {
     .landingPage {
